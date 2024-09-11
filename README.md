@@ -7,6 +7,7 @@ Olá visitante! Eu sou o [Breno D. Chrispim](https://github.com/DChrispim) e ess
 | Arquivo                                                  | Tópicos                                                                     |                       Status                       |
 | -------------------------------------------------------- | --------------------------------------------------------------------------- | :------------------------------------------------: |
 | [Caso 1: Migração hospital](caso-1-migracao-hospital.md) | Segurança, custos e integração com sistemas legados em migrações para nuvem | ![Feito](https://img.shields.io/badge/Feito-green) |
+| [Caso 2: Migração hospital](caso-2-migracao-hospital-estrategia.md) | Aprofundamento em estratégias e tecnologias para migração | ![Feito](https://img.shields.io/badge/Feito-green) |
 
 ## About me
 
